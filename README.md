@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+Rvelous+%2F+sevouz+space!" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+Rvelous%2Fsevouz+space!" alt="Typing SVG" /></div>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Hi+There+%F0%9F%91%8B;I'm+a+Coding+Enthusiast;With+the+Zeal+to+Learn!" alt="Typing SVG" />
 
-
-Hey there! I'm a developer who loves building cool stuff.
 
 ### About Me
 
