@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Welcome+to+Rvelous+%2F+sevouz+space!+%F0%9F%8C%8C" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+Rvelous+%2F+sevouz+space!" alt="Typing SVG" /></div>
+
 
 
 Hey there! I'm a developer who loves building cool stuff.
