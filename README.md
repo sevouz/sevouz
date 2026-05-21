@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<## Welcome to Rvelous / sevouz space 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Welcome+to+Rvelous+%2F+sevouz+space!+%F0%9F%8C%8C" alt="Typing SVG" />
+</div>
 
 Hey there! I'm a developer who loves building cool stuff.
 
