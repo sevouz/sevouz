@@ -68,8 +68,8 @@ motto: "Code. Learn. Repeat."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sevouz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sevouz&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sevouz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://streak-stats.demolab.com/?user=sevouz&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
