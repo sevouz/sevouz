@@ -8,7 +8,7 @@
 
 <br>
 
-*"Where the head is held High and the Mind is without Fear."*
+*"Where the Mind is without Fear and the head is held High."*
 
 <br>
 
