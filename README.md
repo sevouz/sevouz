@@ -8,7 +8,7 @@
 
 <br>
 
-*"Where the Mind is without Fear and the head is held High."*
+*"Where the mind is without fear and the head is held high."*
 
 <br>
 
@@ -49,6 +49,10 @@ motto: "Code. Learn. Repeat."
 [![Cloudstream Extensions](https://img.shields.io/badge/☁️_Cloudstream_Extensions-sevouz-0078D4?style=for-the-badge&logo=github)](https://github.com/sevouz/cloudstream-extensions-sevouz)
 
 <sub>8 plugins • Anime • Movies • TV Series • Multi-language</sub>
+
+[![SyzeeStream](https://img.shields.io/badge/SyzeeStream-Android_App-brightgreen?style=for-the-badge&logo=android)](https://github.com/sevouz/SyzeeStream)
+
+<sub>Android Streaming App • Movies • TV Series • Anime • Kotlin</sub>
 
 </div>
 
